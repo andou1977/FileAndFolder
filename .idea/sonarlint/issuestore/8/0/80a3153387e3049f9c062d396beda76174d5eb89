@@ -1,0 +1,17 @@
+
+È
+java:S1192"¥Define a constant instead of duplicating this literal "C:\\Users\\Genius\\IdeaProjects\\FileAndFolder\\src\\main\\java\\org\\example\\TheFolder\\myfile.txt" 3 times.(«ï«èüÿÿÿÿ8«ğˆÚà1
+n
+java:S2095B"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(ùôŒøùÿÿÿÿ8ÀğˆÚà1
+i
+java:S20955"LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(îÈöØ8ÀğˆÚà1
+G	java:S106"+Replace this use of System.out by a logger.(™Õõ8ÄğˆÚà1
+G	java:S106"+Replace this use of System.out by a logger.(ÖŒ‘í8ÅğˆÚà1
+G	java:S106"+Replace this use of System.out by a logger.(™Õõ8ÆğˆÚà1
+L	java:S106"+Replace this use of System.out by a logger.(š­„Âøÿÿÿÿ8ÇğˆÚà1
+G	java:S106%"+Replace this use of System.out by a logger.(ÂËÛæ8ÈğˆÚà1
+L	java:S106'"+Replace this use of System.out by a logger.(‡úóƒúÿÿÿÿ8ÈğˆÚà1
+L	java:S106+"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿ8ÉğˆÚà1
+L	java:S106;"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿ8ÌğˆÚà1
+L	java:S106E"+Replace this use of System.out by a logger.(ïÀßáøÿÿÿÿ8ÏğˆÚà1
+L	java:S106H"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿ8ĞğˆÚà1
