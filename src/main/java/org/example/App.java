@@ -13,7 +13,8 @@ public class App
         fileAndFolderOrganisation.listfichier();
         fileAndFolderOrganisation.ecriredanslefichier();
         fileAndFolderOrganisation.lire();
-
+        fileAndFolderOrganisation.verifyifexistfile();
+        System.out.println(fileAndFolderOrganisation.absolutpathconverter());
 
     }
 }

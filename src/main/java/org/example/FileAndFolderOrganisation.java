@@ -60,6 +60,7 @@ public class FileAndFolderOrganisation {
         }
     }
 
+    //read the file
     public void lire(){
         String chemins="C:\\Users\\Genius\\IdeaProjects\\FileAndFolder\\src\\main\\java\\org\\example\\TheFolder\\myfile.txt";
         try{
@@ -72,4 +73,35 @@ public class FileAndFolderOrganisation {
             System.out.println(e.getMessage());
         }
     }
-}
+
+    //verify if file exist
+    public void verifyifexistfile() {
+        String chemins="C:\\Users\\Genius\\IdeaProjects\\FileAndFolder\\src\\main\\java\\org\\example\\TheFolder";
+        String namefile="myfile.txt";
+        File file=new File(chemins);
+        if(file.exists() && file.isDirectory()){
+            File []f=file.listFiles();
+            for(File fi:f) {
+                if (fi != null) {
+                    if (fi.isFile() && fi.getName().equals(namefile)) {
+                        System.out.println("fichier exist");
+                       return;
+                    }
+
+                }
+            }
+                System.out.println("fichier not exist");
+            }else{
+                System.out.println("folder not found");
+            }
+        }
+
+        //convert file in aboluthpath
+    public Path absolutpathconverter(){
+        String chemins="C:\\Users\\Genius\\IdeaProjects\\FileAndFolder\\src\\main\\java\\org\\example\\TheFolder\\myfile.txt";
+        Path path=Paths.get(chemins).toAbsolutePath();
+        return path;
+
+    }
+    }
+

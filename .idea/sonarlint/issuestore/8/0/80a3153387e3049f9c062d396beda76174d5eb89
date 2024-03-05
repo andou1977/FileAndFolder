@@ -1,17 +1,27 @@
 
+¼
+java:S1192
+"™Define a constant instead of duplicating this literal "C:\\Users\\Genius\\IdeaProjects\\FileAndFolder\\src\\main\\java\\org\\example\\TheFolder" 3 times.(çÌÆ’ûÿÿÿÿ8èÙîîà1
 È
-java:S1192"¥Define a constant instead of duplicating this literal "C:\\Users\\Genius\\IdeaProjects\\FileAndFolder\\src\\main\\java\\org\\example\\TheFolder\\myfile.txt" 3 times.(«ï«èüÿÿÿÿ8«ğˆÚà1
-n
-java:S2095B"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(ùôŒøùÿÿÿÿ8ÀğˆÚà1
+java:S1192"¥Define a constant instead of duplicating this literal "C:\\Users\\Genius\\IdeaProjects\\FileAndFolder\\src\\main\\java\\org\\example\\TheFolder\\myfile.txt" 4 times.(«ï«èüÿÿÿÿ8êÙîîà1
+Q
+java:S1066V"/Merge this if statement with the enclosing one.(ÎŸÜıÿÿÿÿÿ8êÙîîà1
+~
+java:S1488f"\Immediately return this expression instead of assigning it to the temporary variable "path".(ÎÏ·ÿÿÿÿÿ8äÕïîà1
 i
-java:S20955"LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(îÈöØ8ÀğˆÚà1
-G	java:S106"+Replace this use of System.out by a logger.(™Õõ8ÄğˆÚà1
-G	java:S106"+Replace this use of System.out by a logger.(ÖŒ‘í8ÅğˆÚà1
-G	java:S106"+Replace this use of System.out by a logger.(™Õõ8ÆğˆÚà1
-L	java:S106"+Replace this use of System.out by a logger.(š­„Âøÿÿÿÿ8ÇğˆÚà1
-G	java:S106%"+Replace this use of System.out by a logger.(ÂËÛæ8ÈğˆÚà1
-L	java:S106'"+Replace this use of System.out by a logger.(‡úóƒúÿÿÿÿ8ÈğˆÚà1
-L	java:S106+"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿ8ÉğˆÚà1
-L	java:S106;"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿ8ÌğˆÚà1
-L	java:S106E"+Replace this use of System.out by a logger.(ïÀßáøÿÿÿÿ8ÏğˆÚà1
-L	java:S106H"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿ8ĞğˆÚà1
+java:S20955"LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(îÈöØ8”Úîîà1
+n
+java:S2095C"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(ùôŒøùÿÿÿÿ8”Úîîà1
+G	java:S106"+Replace this use of System.out by a logger.(™Õõ8šÚîîà1
+G	java:S106"+Replace this use of System.out by a logger.(ÖŒ‘í8›Úîîà1
+G	java:S106"+Replace this use of System.out by a logger.(™Õõ8œÚîîà1
+L	java:S106"+Replace this use of System.out by a logger.(š­„Âøÿÿÿÿ8Úîîà1
+G	java:S106%"+Replace this use of System.out by a logger.(ÂËÛæ8Úîîà1
+L	java:S106'"+Replace this use of System.out by a logger.(‡úóƒúÿÿÿÿ8ŸÚîîà1
+L	java:S106+"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿ8ŸÚîîà1
+L	java:S106;"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿ8¡Úîîà1
+L	java:S106F"+Replace this use of System.out by a logger.(ïÀßáøÿÿÿÿ8¤Úîîà1
+L	java:S106I"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿ8¤Úîîà1
+L	java:S106W"+Replace this use of System.out by a logger.(Û“ŠÃùÿÿÿÿ8©Úîîà1
+L	java:S106]"+Replace this use of System.out by a logger.(­ğÖ—şÿÿÿÿ8©Úîîà1
+G	java:S106_"+Replace this use of System.out by a logger.(„ÛŠÀ8©Úîîà1
